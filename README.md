@@ -9,7 +9,7 @@ Find the related work in [Google Earth Engine]()
 4. Impact of land use on albedo and precipitation pattern 
 
 **Analysis**
--The Estimation of albedo, LST and NDVI carried out using Google Earth Engine (GEE) and QGIS
--The Land use classification also done in GEE using Random Forest Classification 
--To identify relation between albedo, ndvi and LST, creaed 1000 sample points on the raster files and extracted associated values in GEE to carry out correlation analysis by Ordinary Least Squares using Statsmodels.api in jupyter notebook
--The Precipitation maps and time series ploted from [CHIRPS](https://developers.google.com/earth-engine/datasets/catalog/UCSB-CHG_CHIRPS_PENTAD) and [TRMM](https://developers.google.com/earth-engine/datasets/catalog/TRMM_3B43V7) datasets
+- The Estimation of albedo, LST and NDVI carried out using Google Earth Engine (GEE) and QGIS
+- The Land use classification also done in GEE using Random Forest Classification 
+- To identify relation between albedo, ndvi and LST, creaed 1000 sample points on the raster files and extracted associated values in GEE to carry out correlation analysis by Ordinary Least Squares using Statsmodels.api in jupyter notebook
+- The Precipitation maps and time series ploted from [CHIRPS](https://developers.google.com/earth-engine/datasets/catalog/UCSB-CHG_CHIRPS_PENTAD) and [TRMM](https://developers.google.com/earth-engine/datasets/catalog/TRMM_3B43V7) datasets
